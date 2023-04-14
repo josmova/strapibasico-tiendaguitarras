@@ -1,6 +1,6 @@
 # 🔖 Strapi Tienda de Guitarras
 
-Se utilizo strapi para facilitar la parte de desarrollo del backend. Para usar en proyecto de remix.js y [next.js](https://github.com/josmova/TiendaGuitarrasBasicNextJs) en frontend.
+Se utilizo strapi para facilitar la parte de desarrollo del backend. Para usar en proyecto de [remix.js](https://github.com/josmova/TiendaGuitarrasBasicRemixJs) y [next.js](https://github.com/josmova/TiendaGuitarrasBasicNextJs) en frontend.
 
 Aquí pequeña información de que es strapi:
 Strapi es el principal CMS sin interfaz de código abierto. Es 100% JavaScript y totalmente personalizable. Strapi es un CMS sin cabeza de código abierto que brinda a los desarrolladores la libertad de elegir sus herramientas y marcos favoritos y permite a los editores administrar y distribuir su contenido utilizando el panel de administración de su aplicación.
